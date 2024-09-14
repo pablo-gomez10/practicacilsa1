@@ -1,0 +1,19 @@
+/* Estilos personalizados */
+body {
+    padding-top: 56px; /* Ajustar el espacio superior para la navegación */
+}
+
+.carousel-item img {
+    height: 400px; /* Altura fija para el carrusel */
+    object-fit: cover; /* Mantener el aspecto de la imagen */
+}
+
+footer {
+    background-color: #f8f9fa;
+    padding: 10px 0;
+}
+
+.card img {
+    height: 200px; /* Altura fija para las imágenes de los productos */
+    object-fit: cover; /* Mantener el aspecto de la imagen */
+}
